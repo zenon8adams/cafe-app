@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="main.qml">views/main.qml</file>
+        <file alias="StaffView.qml">views/StaffView.qml</file>
+        <file alias="AdminView.qml">views/AdminView.qml</file>
+        <file alias="DailySummaryView.qml">views/DailySummaryView.qml</file>
+        <file alias="WeeklySummaryView.qml">views/WeeklySummaryView.qml</file>
+        <file alias="AnnualSummaryView.qml">views/AnnualSummaryView.qml</file>
+        <file alias="EditMenuView.qml">views/EditMenuView.qml</file>
+        <file alias="EditStaffView.qml">views/EditStaffView.qml</file>
+        <file alias="DateSummaryView.qml">views/DateSummaryView.qml</file>
+    </qresource>
+</RCC>

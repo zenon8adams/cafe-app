@@ -1,0 +1,2 @@
+module assets
+singleton Styler 1.0 Styler.qml

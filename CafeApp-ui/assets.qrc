@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="Styler.qml">assets/Styler.qml</file>
+        <file alias="qmldir">assets/qmldir</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="slide1.jpg">assets/images/slide1.jpg</file>
+        <file alias="slide2.jpg">assets/images/slide2.jpg</file>
+        <file alias="slide3.jpg">assets/images/slide3.jpg</file>
+        <file alias="slide4.jpg">assets/images/slide4.jpg</file>
+        <file alias="slide5.jpg">assets/images/slide5.jpg</file>
+        <file alias="slide6.jpg">assets/images/slide6.jpg</file>
+        <file alias="slide7.jpg">assets/images/slide7.jpg</file>
+        <file alias="slide8.jpg">assets/images/slide8.jpg</file>
+        <file alias="slide9.jpg">assets/images/slide9.jpg</file>
+        <file alias="slide10.jpg">assets/images/slide10.jpg</file>
+        <file alias="slide11.jpg">assets/images/slide11.jpg</file>
+        <file alias="slide12.jpg">assets/images/slide12.jpg</file>
+        <file alias="slide13.jpg">assets/images/slide13.jpg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="fa-brands.ttf">assets/fonts/fa-brands-400.ttf</file>
+        <file alias="fa-regular.ttf">assets/fonts/fa-regular-400.ttf</file>
+        <file alias="fa-solid.ttf">assets/fonts/fa-solid-900.ttf</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="cafeapp-logo.png">assets/icons/cafeapp-logo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="LoginWindow.qml">components/LoginWindow.qml</file>
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="FoodOrderWidget.qml">components/FoodOrderWidget.qml</file>
+        <file alias="ItemSelection.qml">components/ItemSelection.qml</file>
+        <file alias="SignUpWindow.qml">components/SignUpWindow.qml</file>
+        <file alias="GenericRoundButton.qml">components/GenericRoundButton.qml</file>
+        <file alias="GenericFlatButton.qml">components/GenericFlatButton.qml</file>
+        <file alias="CafeMenu.qml">components/CafeMenu.qml</file>
+        <file alias="AddItemPopup.qml">components/AddItemPopup.qml</file>
+        <file alias="Staff.qml">components/Staff.qml</file>
+        <file alias="CafeAppInstance.qml">components/CafeAppInstance.qml</file>
+    </qresource>
+</RCC>

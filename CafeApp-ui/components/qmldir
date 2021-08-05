@@ -1,0 +1,8 @@
+module components
+LoginWindow 1.0 LoginWindow.qml
+ItemSelection 1.0 ItemSelection.qml
+GenericFlatButton 1.0 GenericFlatButton.qml
+GenericRoundButton 1.0 GenericRoundButton.qml
+CafeMenu 1.0 CafeMenu.qml
+AddItemPopup 1.0 AddItemPopup.qml
+Staff 1.0 Staff.qml
